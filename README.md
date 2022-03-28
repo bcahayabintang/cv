@@ -16,7 +16,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 - [X] 24x7 Uptime (On Github Pages / Netlify)
 - [X] Support
 
-## Dont Forget To [🌟Star](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) and [🍴Fork](https://github.com/CyberBoyAyush/Simple-Portfolio/fork) This Repo 💙
+## Dont Forget To [🌟Star](https://github.com/agamx/ryanofficial.git/fork) and [🍴Fork](https://github.com/agamx/ryanofficial.git/fork) This Repo 💙
 
 # Need Help?
 [![twitter badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/CyberBoyAyush)
