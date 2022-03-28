@@ -24,7 +24,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 
 # Clone This Repo
-`git clone https://github.com/CyberBoyAyush/Simple-Portfolio.git`
+`git clone https://github.com/agamx/ryanofficial.git`
 
 # Make Your Edits
 - Edit [index.html](https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/index.html) file according to your preference.
