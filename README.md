@@ -27,9 +27,9 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 `git clone https://github.com/agamx/ryanofficial.git`
 
 # Make Your Edits
-- Edit [index.html](https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/index.html) file according to your preference.
+- Edit [index.html](https://github.com/agamx/ryanofficial/blob/master/index.html) file according to your preference.
 - Change or edit links according to you.
-- For profile pic replace [profile.png](https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/profile.png) with your desired profile image. It will automatically fetch profile pic.
+- For profile pic replace [profile.png](https://agamx.github.io/ryanofficial/profile.png) with your desired profile image. It will automatically fetch profile pic.
 
 # Push Edited Code On Github
 ```
