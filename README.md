@@ -20,7 +20,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 ## Dont Forget To [🌟Star](https://github.com/agamx/ryanofficial.git) and [🍴Fork](https://github.com/agamx/ryanofficial.git) This Repo 💙
 
 # Need Help?
-[![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://instagram/ryanofficial2001)
+[![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://www.instagram/ryanofficial2001)
 [![twitter badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/CyberBoyAyush)
 [![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
