@@ -9,6 +9,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 
 
 # Features
+- [X] Features of the woilo link button for Indonesian social media applications
 - [X] Single Page
 - [X] Good Looking Design
 - [X] Easy To Edit
