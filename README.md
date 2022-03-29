@@ -9,7 +9,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 
 
 # Features
-- [X] Added Link Woilo Social Media Buttons
+- [X] Add woilo social media link buttons from Indonesian
 - [X] Single Page
 - [X] Good Looking Design
 - [X] Easy To Edit
