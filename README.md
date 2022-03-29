@@ -58,7 +58,7 @@ Download [Source Code Zip](https://github.com/CyberBoyAyush/Simple-Portfolio/arc
 # Credits
 - [ViperAdnan](https://github.com/viperadnan-git) for his old portfolio repo [link](https://github.com/viperadnan-git/viperadnan-git.github.io/releases/tag/v1.0.0). All code credits goes to him i just added more stuff in this and added a good readme to this project to make it easy to Deploy.
 
-# Follow Us?
+# Follow Us
 [![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/ryanofficial2001)
 [![twitter badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/CyberBoyAyush)
 [![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
